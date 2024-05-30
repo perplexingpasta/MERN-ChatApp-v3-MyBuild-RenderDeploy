@@ -1,0 +1,32 @@
+add embla carousel for background ✅
+change font ✅
+password visibility eye icon ✅
+
+form clears after signup or login ❌
+
+emoji icon on left ✅
+logout text tooltip on hover ✅
+UI change from blue to red ✅
+
+show date beside time w every text ✅
+search searches username and not fullname ✅
+
+reverted chakra ✅
+
+WATCH THE FIRST CHATAPP VIDEO FOR THIS:
+share images
+seen/ unseen functionality
+
+make it responsive
+make it accessible
+
+
+APP'S FEATURES:
+real time talking
+beautiful interface
+online status of person
+user search by username
+secure authentication
+text notification sound and animation
+scrolls to the bottom in chats
+emoji icon on left
